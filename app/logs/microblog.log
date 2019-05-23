@@ -74,3 +74,4 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 [SQL: UPDATE user SET username=?, about_me=? WHERE user.id = ?]
 [parameters: ('te', '', 1)]
 (Background on this error at: http://sqlalche.me/e/gkpj)
+2019-05-23 10:04:41,500 INFO: Microblog startup [in /home/tcake/Projects/Web/microblog/app/__init__.py:47]
